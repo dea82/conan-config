@@ -1,2 +1,1 @@
-bincrafters https://api.bintray.com/conan/bincrafters/public-conan True
-dea82 https://api.bintray.com/conan/dea82/public-conan True
+local-repo https://api.bintray.com/conan/dea82/public-conan True
