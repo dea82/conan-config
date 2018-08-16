@@ -1,1 +1,1 @@
-local-repo https://api.bintray.com/conan/dea82/public-conan True
+private-repo https://api.bintray.com/conan/dea82/public-conan True
