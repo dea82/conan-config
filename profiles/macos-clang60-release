@@ -10,3 +10,5 @@ build_type=Release
 [options]
 [build_requires]
 [env]
+CC=/usr/local/Cellar/llvm/6.0.1/bin/clang
+CXX=/usr/local/Cellar/llvm/6.0.1/bin/clang++
