@@ -1,1 +1,3 @@
 private-repo https://api.bintray.com/conan/dea82/public-conan True
+bincrafters https://api.bintray.com/conan/bincrafters/public-conan True
+joakimono https://api.bintray.com/conan/joakimono/conan True
