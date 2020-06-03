@@ -3,3 +3,4 @@ bincrafters https://api.bintray.com/conan/bincrafters/public-conan True
 inexorhame https://api.bintray.com/conan/inexorgame/inexor-conan True
 joakimono https://api.bintray.com/conan/joakimono/conan True
 conan https://api.bintray.com/conan/conan-community/conan True
+conan-center: https://conan.bintray.com True
